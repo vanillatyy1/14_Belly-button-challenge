@@ -2,9 +2,9 @@
 
 ## 1) Executive Summary:
 The Belly Button Biodiversity dataset documents the microbes found in human belly buttons. It shows that some microbial species are common among people, while others are rare.
-This project aims to build an interactive dashboard using D3.js and Plotly.js to explore this dataset, accessible via URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json
+This project aims to build an interactive dashboard using D3.js and Plotly.js to explore this dataset, accessible via [this URL](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json)
 
-The live demo of the dashboard can be view here.
+The live demo of the dashboard can be view [here](https://vanillatyy1.github.io/14_Belly-button-challenge/)
 
 ## 2) Project Objectives:
 - Read the Belly Button Biodiversity dataset from the provided URL using the D3 library.
